@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Scholar in the Computer Science and Engineering Department at the Indian Institute of Technology Kanpur (IITK), working under the guidance of Prof. Sandeep Kumar Shukla. My research primarily focuses on malware analysis and system security, with a particular emphasis on developing advanced techniques for the early detection of ransomware.
+Mohan Anand Putrevu is a Research Scholar in the Computer Science and Engineering Department at the Indian Institute of Technology Kanpur (IITK), working under the guidance of Prof. Sandeep Kumar Shukla. His research primarily focuses on malware analysis and system security, with a particular emphasis on developing advanced techniques for the early detection of ransomware.
+
+Prior to joining IIT Kanpur, he completed his Master’s in Cybersecurity from TIFAC-CORE in Cybersecurity at Amrita Vishwa Vidyapeetham. He also gained industry experience as a Research Intern at Dell (RSA), where he contributed to the development of the SIEM tool, NetWitness.
